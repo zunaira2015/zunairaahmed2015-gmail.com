@@ -1,0 +1,24 @@
+.Loginlogo {
+    height: 20% !important;
+	width: 20%;
+	margin: 5% 0 0 30% !important;
+    
+}
+
+.joinInput {
+	margin-left:40%;
+	margin-top: 10%;
+	border-radius: 30px !important;
+	padding: 15px 20px !important;
+	width: 100% !important;
+	height: 20% !important;
+  }
+  
+.loginbuttons {
+	margin-top: 2% !important;
+	width:18% !important;
+}
+
+html, body {
+	background-color: #1A1A1D;
+}
